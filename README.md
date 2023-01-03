@@ -16,7 +16,7 @@ Java là ngôn ngữ lập trình hướng đối tượng nên nó cũng có 4 
 - **Tính trừu tượng (Abstraction)**
 - **Tính đa hình (Polymorphism)**
 - **Tính kế thừa (Inheritance)**
-- **Tính đóng gói (Encapsulation) ** 
+- **Tính đóng gói (Encapsulation)** 
 
 Bên cạnh đó Java còn có một số đặc tính khác: 
 - **Độc lập nền tảng**: Khi Java được biên dịch, thay vì được biên dịch sang một mã máy cụ thể, nó được biên dịch thành bytecode chạy trên máy ảo Java (JVM). Điều này đồng nghĩa với việc bất cứ thiết bị nào có cài đặt JVM thì sẽ thực thi được các chương trình Java  
