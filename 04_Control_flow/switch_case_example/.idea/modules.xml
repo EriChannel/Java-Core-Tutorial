@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/first_app.iml" filepath="$PROJECT_DIR$/first_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch_case_example.iml" filepath="$PROJECT_DIR$/switch_case_example.iml" />
     </modules>
   </component>
 </project>
