@@ -19,6 +19,16 @@ public class Main {
         doKhi.color = "Vàng";
         doKhi.weight = 3.2;
 
+        Cat c1 = new Cat();
+        System.out.println(c1.name + " - " + c1.color + " - " + c1.weight);
+
+        Cat van = new Cat("Vằn", "Vàng cam", 0.5);
+        System.out.println(van.name + " - " + van.color + " - " + van.weight);
+
+        Cat den = new Cat("Đen", 0.4);
+        System.out.println(den.name + " - " + den.color + " - " + den.weight);
+
+
         Cat[] cats = new Cat[3];
         cats[0] = kem;
         cats[1] = cao;
